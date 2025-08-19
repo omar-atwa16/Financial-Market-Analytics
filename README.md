@@ -4,6 +4,11 @@ A comprehensive analysis of the stock market over the past year.
 
 ## Tools Used
 - Python
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- yfinance
 
 ## What I Did
 - Analyzed stock prices of Apple, Microsoft, and Tesla
